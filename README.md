@@ -43,7 +43,7 @@ This application is a rule engine that determines user eligibility based on attr
 1. **Clone the Repository**
    ```bash
    git clone "https://github.com/pankajkush17/Rule-Engine-with-AST"
-   cd rule-engine
+   cd Rule-Engine-with-AST
    ```
 
 2. **Install Backend Dependencies**
